@@ -6,3 +6,5 @@ C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.cspro
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache

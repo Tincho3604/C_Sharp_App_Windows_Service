@@ -15,13 +15,13 @@ namespace FileWatcher
         static void Main()
         {
 
-        #if DEBUG
+     #if DEBUG
 
             Service1 myService = new Service1();
             myService.OnDebug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
-        
-        #else
+
+     #else
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
@@ -29,7 +29,7 @@ namespace FileWatcher
             };
             ServiceBase.Run(ServicesToRun);
 
-         #endif
+     #endif
         }
     }
 }

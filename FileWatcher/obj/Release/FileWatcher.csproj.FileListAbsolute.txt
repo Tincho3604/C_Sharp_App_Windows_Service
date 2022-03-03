@@ -1,0 +1,10 @@
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.ProjectInstaller.resources
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe.config
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.pdb
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.exe
+C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Release\FileWatcher.pdb

@@ -1,0 +1,30 @@
+﻿Desinstalando ensamblado 'C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Quitando el origen de EventLog File Watcher STORE-DB.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acceso denegado al Registro solicitado.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Desinstalando ensamblado 'C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+   logfile = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+Quitando el origen de EventLog File Watcher STORE-DB.
+Se está quitando el servicio File Watcher STORE-DB del sistema...
+El servicio File Watcher STORE-DB se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Instalando el servicio STOREDB...
+El servicio STOREDB se ha instalado correctamente.
+Creando el origen de EventLog STOREDB en el registro Application...
+Confirmando ensamblado 'C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
