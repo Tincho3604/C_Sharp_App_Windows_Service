@@ -8,3 +8,12 @@ C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
 C:\Users\Martin\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Tincho\Source\Repos\C_Sharp_App_Windows_Service\FileWatcher\obj\Debug\FileWatcher.pdb

@@ -12,6 +12,8 @@ namespace FileWatcher
 {
     public partial class Service1 : ServiceBase
     {
+
+       
         public Service1()
         {
             InitializeComponent();
@@ -24,12 +26,17 @@ namespace FileWatcher
 
         protected override void OnStart(string[] args)
         {
-            System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory + "OnStart.txt");
+            FileWatcherXML TEST = new FileWatcherXML();
+
+            TEST.OnStartTest();
         }
 
         protected override void OnStop()
         {
             System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory + "OnStop.txt");
         }
+
+
+
     }
 }

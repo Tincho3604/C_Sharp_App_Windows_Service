@@ -21,7 +21,9 @@ namespace FileWatcher
             myService.OnDebug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
 
+
      #else
+
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {

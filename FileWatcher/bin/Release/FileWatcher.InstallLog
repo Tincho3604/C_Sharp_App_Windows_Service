@@ -28,3 +28,16 @@ Los parámetros afectados son:
    logtoconsole = 
    logfile = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
    assemblypath = C:\Users\Martin\source\repos\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing assembly 'C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.exe
+   logfile = C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.InstallLog
+Installing service STOREDB...
+Service STOREDB has been successfully installed.
+Creating EventLog source STOREDB in log Application...
+Committing assembly 'C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.exe
+   logfile = C:\Users\Tincho\source\repos\C_Sharp_App_Windows_Service\FileWatcher\bin\Release\FileWatcher.InstallLog
